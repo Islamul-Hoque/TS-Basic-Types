@@ -21,3 +21,12 @@ function checkType(value : StringOrNumber): string{
 
 // console.log(checkType("Hello"));
 // console.log(checkType(4));
+
+// Problem-4
+function getProperty<T, K extends keyof T>(object: T, key: K) : T[K] {
+    return object[key];
+}
+
+const user = { id: 1, name: "John Doe", age: 21 };
+// console.log(getProperty(user, "name"));
+// console.log(getProperty(user, "age"));
