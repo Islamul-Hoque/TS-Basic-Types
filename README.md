@@ -1,4 +1,4 @@
-# B7A1
+# Typescript Basic Types
 
 ## Assignment: Advanced Problem Solving with TypeScript & OOP
 
@@ -150,19 +150,3 @@ Submit each blog post in its own Markdown file:
 ├── blog-2.md
 └── README.md
 ```
-
-## 🚀 Submission Instructions
-
-1. **Repository Setup:** Create a personal GitHub repository and push your completed files.
-2. **Visibility:** Set the repository to **Public**.
-3. **Submission:** Paste the **direct repository URL** into the assignment submission box. Do not submit individual files or archives.
-
-### Assignment Deadlines:
-
-* **60 marks:** May 07, 2026, 11:59 PM
-* **50 marks:** May 08, 2026, 11:59 PM
-* **30 marks:** After May 08, 11.59 PM
-
----
-
-The code & content must be your own. Avoid `copy-pasting` from documentation or `AI generators
