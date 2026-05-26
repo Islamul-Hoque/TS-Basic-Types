@@ -1,12 +1,7 @@
-# Typescript Basic Types
-
-## Assignment: Advanced Problem Solving with TypeScript & OOP
+# Assignment: Advanced Problem Solving with TypeScript & OOP
 
 This assignment comprises various problems that demonstrate fundamental TypeScript concepts, including data typing, interfaces for objects, class usage with inheritance, type checking, and manipulation of data structures. The solutions aim to showcase efficient and clear problem-solving techniques using TypeScript, adhering to best coding practices.
 
-## 💻 Problem Solving 
-
-All coding solutions must be implemented in a **single file** named `solutions.ts`.
 
 ## Problem 1:
 Create a TypeScript function `filterEvenNumbers` that accepts an array of numbers and returns a new array containing only the even numbers.
