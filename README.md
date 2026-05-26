@@ -4,7 +4,7 @@
 
 This assignment comprises various problems that demonstrate fundamental TypeScript concepts, including data typing, interfaces for objects, class usage with inheritance, type checking, and manipulation of data structures. The solutions aim to showcase efficient and clear problem-solving techniques using TypeScript, adhering to best coding practices.
 
-## 💻 Problem Solving (50 Marks)
+## 💻 Problem Solving 
 
 All coding solutions must be implemented in a **single file** named `solutions.ts`.
 
@@ -99,48 +99,13 @@ getIntersection([1, 2, 3, 4, 5], [3, 4, 5, 6, 7])
 [3, 4, 5]
 ```
 
----
 
-## Blog Writing (Choose any two: 10 Marks)
-
-Write an impactful and technically sound blog post covering **two** of the following topics. Your blog should be clear, concise, and include code examples where necessary to illustrate your points.
+### 📝 Blog Topics:
 
 
-### Blog Topics:
+1.  How do `Generics` allow you to build reusable components and functions that stay strictly typed regardless of the data structures passed in?
 
-1.  Why is `any` labeled a "type safety hole," and why is `unknown` the safer choice for handling unpredictable data? Explain the concept of type narrowing.
-
-2.  How do `Pick` and `Omit` utility types prevent code duplication while creating specialized "slices" of a master interface? Discuss how this keeps your code **DRY** (Don't Repeat Yourself).
-
-3.  How do `Generics` allow you to build reusable components and functions that stay strictly typed regardless of the data structures passed in?
-
-4.  How do the four pillars of **OOP—Inheritance, Polymorphism, Abstraction, and Encapsulation**—help manage logic and reduce complexity in large-scale TypeScript projects?
-
----
-
-## 💻 Coding Requirements
-
-All solutions must be placed in a single file named `solutions.ts`.
-
-* **Function Names:** Use the exact names specified in the problem descriptions.
-* **Exact Output:** Your return values must match the sample output exactly, including spaces, punctuation, and capitalization.
-    * *Correct:* `'Name: John Doe, Age: 30'`
-    * *Incorrect:* `'name: John Doe, age: 30'`
-* **Clean Code:** Use meaningful variable and class names.
-* **No Noise:** * Do **not** include unnecessary comments.
-* Do **not** include any `console.log` statements; return the values instead.
-
----
-
-## 📝 Blog Instructions
-
-Submit each blog post in its own Markdown file:
-* **Format:** Use a separate Markdown (`.md`) file for each blog (e.g., `blog-1.md`, `blog-2.md`).
-* **Structure:** Each post should have a clear **Title**, an **Introduction**, **Body Paragraphs** with code snippets, and a **Conclusion**.
-* **Language:** English/Bangla.
-* **Clarity:** Use proper Markdown headers and code blocks to make the post readable.
-  
----
+2.  How do the four pillars of **OOP—Inheritance, Polymorphism, Abstraction, and Encapsulation**—help manage logic and reduce complexity in large-scale TypeScript projects?
 
 ## 📁 File Structure
 
